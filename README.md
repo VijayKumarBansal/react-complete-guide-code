@@ -1,4 +1,4 @@
-# Foobar
+# react-complete-guide
 
 This is a Reactjs self learning path
 
