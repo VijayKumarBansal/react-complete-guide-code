@@ -13,3 +13,7 @@ body {
   background-color: hsl(248, 53%, 51%);
 }
 
+#root {
+  padding: 25px 40px;
+}
+
